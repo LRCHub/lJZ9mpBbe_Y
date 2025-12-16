@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "弾丸サバイバー (GAME VERSION)",
+  "base_artist": "大和亜季(CV:村中知)",
+  "createdAt": "2025-12-16T10:37:04.797772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "弾丸サバイバー",
+      "artist": "大和亜季",
+      "has_synced": false,
+      "path": "select/pl_01_弾丸サバイバー_大和亜季.txt"
+    }
+  ]
+}
